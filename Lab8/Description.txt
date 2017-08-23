@@ -1,0 +1,1 @@
+I made the applicationContext.xml file, and made configurations, then I wrote the BusinessObjects and BusinessObjectImplementation for every entity, then I updated the Executioner file a little.
